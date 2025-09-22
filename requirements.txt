@@ -6,3 +6,4 @@ python-dotenv
 bcrypt
 PyJWT
 pydantic
+email-validator
