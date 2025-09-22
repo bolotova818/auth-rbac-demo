@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual envs
+venv/
+.venv/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Env files
+.env
+.env.*
+
+# Local data / logs
+*.db
+*.sqlite3
+*.log
+
+# Docker volume
+pgdata/
