@@ -140,6 +140,6 @@ curl -X GET http://127.0.0.1:8000/objects \
 ---
 
 ##  Контакты
-Автор: *Анастасия  
+Автор: Анастасия  
 Email: bolotova818@gmail.com
 тг: @ban_any
